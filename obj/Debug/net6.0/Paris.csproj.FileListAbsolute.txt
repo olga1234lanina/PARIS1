@@ -1,0 +1,15 @@
+C:\Paris\bin\Debug\net6.0\Paris.exe
+C:\Paris\bin\Debug\net6.0\Paris.deps.json
+C:\Paris\bin\Debug\net6.0\Paris.runtimeconfig.json
+C:\Paris\bin\Debug\net6.0\Paris.dll
+C:\Paris\bin\Debug\net6.0\Paris.pdb
+C:\Paris\obj\Debug\net6.0\Paris.csproj.AssemblyReference.cache
+C:\Paris\obj\Debug\net6.0\Paris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Paris\obj\Debug\net6.0\Paris.AssemblyInfoInputs.cache
+C:\Paris\obj\Debug\net6.0\Paris.AssemblyInfo.cs
+C:\Paris\obj\Debug\net6.0\Paris.csproj.CoreCompileInputs.cache
+C:\Paris\obj\Debug\net6.0\Paris.dll
+C:\Paris\obj\Debug\net6.0\refint\Paris.dll
+C:\Paris\obj\Debug\net6.0\Paris.pdb
+C:\Paris\obj\Debug\net6.0\Paris.genruntimeconfig.cache
+C:\Paris\obj\Debug\net6.0\ref\Paris.dll
